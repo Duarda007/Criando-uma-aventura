@@ -14,3 +14,9 @@ button{
     color: rgba(191, 230, 174, 0);
     font-family: "Rubik", sans-serif;
 }
+.passo {
+    display: none;
+}
+.passo.ativo{
+    display: block;
+}
